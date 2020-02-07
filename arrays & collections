@@ -1,7 +1,7 @@
 arrays
 
 
-1) https://dev.to/duomly/13-useful-javascript-array-tips-and-tricks-you-should-know-2jfo
-
-Array.of()
+1) Array.of()
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/of
+
+2) spread operator
