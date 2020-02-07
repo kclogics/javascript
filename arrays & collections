@@ -5,3 +5,16 @@ arrays
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/of
 
 2) spread operator
+
+3)Array.find
+let add1 = Array.of(2, 3, 100, 200);
+let add2 = Array.of(200, 200, 300);
+
+let addSum = Array.of(...add1, ...add2);
+let addSumAll = addArray(...addSum);
+
+function findOver() {
+  let addSumOver = add1.find(over => over > 1Array);
+  console.log("addSumOver", addSumOver);
+}
+
