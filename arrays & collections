@@ -31,3 +31,7 @@ let dummy1 = Array.of(90, 8, 3);
 dummy1.forEach(addSumPlus);
 console.log("initial", initial);
 
+
+5) sets
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set
+
