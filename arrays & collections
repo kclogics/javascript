@@ -18,3 +18,16 @@ function findOver() {
   console.log("addSumOver", addSumOver);
 }
 
+4) Array.forEach
+
+let initial = 100;
+
+function addSumPlus(x) {
+  initial = x + initial;
+}
+
+let dummy1 = Array.of(90, 8, 3);
+
+dummy1.forEach(addSumPlus);
+console.log("initial", initial);
+
