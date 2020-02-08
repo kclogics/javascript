@@ -6,7 +6,7 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 
 2) spread operator
 
-3)Array.find
+3)Array.find // Array.findIndex
 let add1 = Array.of(2, 3, 100, 200);
 let add2 = Array.of(200, 200, 300);
 
