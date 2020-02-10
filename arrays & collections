@@ -35,3 +35,9 @@ console.log("initial", initial);
 5) sets
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set
 
+6) weak sets
+
+7) maps
+
+8) Typed Arrays
+
